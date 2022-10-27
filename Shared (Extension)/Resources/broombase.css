@@ -1,0 +1,12 @@
+.broom-hidden {
+    display: none !important;
+}
+
+.broom-marked {
+    background-color: red;
+}
+
+/*.broom-hidden .broom-marked {*/
+/*    display: revert;*/
+/*    background-color: revert;*/
+/*}*/
